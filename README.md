@@ -58,9 +58,9 @@
 2. Create a Next.js app using the Supabase Starter template npx command
 
    ```bash
-   pnpm create next-app -e https://github.com/michaeltroya/supa-next-starter
+   pnpm create next-app -e https://github.com/Riles4/supa-next-starter
    # or
-   npx create-next-app -e https://github.com/michaeltroya/supa-next-starter
+   npx create-next-app -e https://github.com/Riles4/supa-next-starter
    ```
 
 3. Use `cd` to change into the app's directory
